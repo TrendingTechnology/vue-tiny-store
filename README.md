@@ -6,7 +6,7 @@
 
 A very simple, fast and easy alternative to vuex within 1.5kb
 
-[DEMO](https://noru.github.io/vue-easy-toast/example/index.html)
+[DEMO](https://codepen.io/ecapurro/pen/XWVrLOm)
 
 **Note:**
 Vue 1.x is not  supported. 
