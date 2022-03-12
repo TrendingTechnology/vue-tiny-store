@@ -88,7 +88,7 @@ export default {
 </script>
 ```
 
-#### More
+#### Configuration
 
 Vue Tiny Store takes 2 parameter: `(stores, [debug])`
 
