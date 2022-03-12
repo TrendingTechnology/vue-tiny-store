@@ -6,8 +6,6 @@
 
 A very simple, fast and easy alternative to vuex within 1.5kb
 
-[DEMO](https://codepen.io/ecapurro/pen/XWVrLOm)
-
 **Note:**
 Vue 1.x is not  supported. 
 
