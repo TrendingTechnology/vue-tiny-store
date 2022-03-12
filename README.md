@@ -12,8 +12,7 @@ Vue 1.x is not  supported.
 ## Usage
 
 #### Install
-
-Download "vue-tiny-store.min.js", after import and register Vue plugin:
+Download file `vue-tiny-store.min.js` and import and register Vue plugin:
 
 ```js
 import Vue from 'vue'
