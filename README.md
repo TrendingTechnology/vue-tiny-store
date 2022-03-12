@@ -108,4 +108,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-MIT
+[MIT](http://opensource.org/licenses/MIT)
+
+## Contact me
+- email: [hola@emanuelcapurro.com](mailto:hola@emanuelcapurro.com)
+- twitter: [@ecapurro_ok](https://twitter.com/ecapurro_ok)
+
+## Author
+Copyright © 2022 - [Emanuel Capurro](https://github.com/ecapurro/) 
+
+
+
