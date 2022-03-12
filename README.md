@@ -96,7 +96,7 @@ Vue Tiny Store takes 2 parameter: `(stores, [debug])`
 Parameter | Type |Default| Requiered | Description
 --------- | ---- | ------|----------- |-----------
 stores | `array` | `null` | `true` | Names or references of stores
-debug | `boolean` | `false` | `false` | Watch debug events/actions into console
+debug | `boolean` | `false` | `false` | Watch debug events/actions into development console
 
 
 ## Contributing
