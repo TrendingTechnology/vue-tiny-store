@@ -66,8 +66,7 @@ Finally, just manage global state in your components, without importing in each 
 
 ```javascript
 <template>
-  <div id="app">
-    <h3>Vue Tiny Store</h3>
+  <div>
     <p>counter {{$state("counter").count}}</p>
     <button @click="increment">Increment</button>
     <button @click="decrement">Decrement</button>
