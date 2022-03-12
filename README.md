@@ -111,7 +111,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - twitter: [@ecapurro_ok](https://twitter.com/ecapurro_ok)
 
 ## Author
-Copyright © 2022 - [Emanuel Capurro](https//emanuelcapurro.com) 
+Copyright © 2022 - [Emanuel Capurro](http://www.emanuelcapurro.com) 
 
 
 
