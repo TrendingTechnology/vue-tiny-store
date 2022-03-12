@@ -51,7 +51,7 @@ export default {
 }
 ```
 
-Reference store in `main.js` with stores parameter
+Reference store in `main.js` with `stores` parameter
 
 ```javascript
 import VueTinyStore from "@/plugins/vue-tiny-store"
@@ -62,7 +62,7 @@ Vue.use(VueTinyStore, {
 })
 ```
 
-Manage global state in your components, without importing in each file of store
+Finally, just manage global state in your components, without importing in each file of store
 
 ```javascript
 <template>
