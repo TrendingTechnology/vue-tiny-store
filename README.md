@@ -19,7 +19,7 @@ Download "vue-tiny-store.min.js", after import and register Vue plugin:
 import Vue from 'vue'
 import VueTinyStore  from "@/plugins/vue-tiny-store"
 
-Vue.use(VueTinyStore, {
+Vue.use(VueTinyStore,{
   stores: [ yourStores ],
 })
 
@@ -57,7 +57,7 @@ Reference store in `main.js` with `stores` parameter
 import VueTinyStore from "@/plugins/vue-tiny-store"
 import counterStore from '@/store/counter'
 
-Vue.use(VueTinyStore, {
+Vue.use(VueTinyStore,{
   stores: [counterStore],
 })
 ```
