@@ -4,7 +4,7 @@
 ![Vue 2.x](https://img.shields.io/badge/vue-2.x-green.svg "Vue 2 Compatible")
 ![Vue 3.x](https://img.shields.io/badge/vue-3.x-green.svg "Vue 3 Compatible")
 
-A very simple, fast and easy alternative to vuex within 2kb
+A very simple, fast and easy alternative to vuex within 1.5kb
 
 [DEMO](https://noru.github.io/vue-easy-toast/example/index.html)
 
