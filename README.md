@@ -62,7 +62,7 @@ Vue.use(VueTinyStore, {
 })
 ```
 
-Finally, just manage global state in your components, without importing in each file of store
+Finally, just manage global state in your components, without importing in each file of store. It's clean!
 
 ```javascript
 <template>
