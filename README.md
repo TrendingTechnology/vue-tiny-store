@@ -106,7 +106,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact me
 - email: [hola@emanuelcapurro.com](mailto:hola@emanuelcapurro.com)
-- linkedin: [@ecapurrok](https:/linkedin.com/in/ecapurro)
+- linkedin: [@ecapurro](https:/linkedin.com/in/ecapurro)
 
 ## Author
 Copyright © 2022 - [Emanuel Capurro](http://www.emanuelcapurro.com) 
